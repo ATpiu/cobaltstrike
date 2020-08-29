@@ -1,5 +1,5 @@
 # cobaltstrike
-现在完成的功能
+现在完成的功能  
 1.定位域管理员(PsLoggedo,PVEFindADUser,netview)  
 2.信息收集(采用ADfind)  
 3.权限维持(增加了万能密码,以及白银票据)  
